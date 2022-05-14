@@ -1,12 +1,11 @@
 # Pacman-Game
 
-########################################
-# ____  ____  ____  _      ____  _     #
-#/  __\/  _ \/   _\/ \__/|/  _ \/ \  /|#
-#|  \/|| / \||  /  | |\/||| / \|| |\ ||#
-#|  __/| |-|||  \__| |  ||| |-||| | \||#
-#\_/   \_/ \|\____/\_/  \|\_/ \|\_/  \|#
-########################################
+ ____  ____  ____  _      ____  _     
+/  __\/  _ \/   _\/ \__/|/  _ \/ \  /|
+|  \/|| / \||  /  | |\/||| / \|| |\ ||
+|  __/| |-|||  \__| |  ||| |-||| | \||
+\_/   \_/ \|\____/\_/  \|\_/ \|\_/  \|
+
 _Welcome to Pacman !!_
 
 In this game you are Pacman. Your goal is to eat all of the food presented on the screen. When you finish eating all of the food on the screen in all of the levels, you will win.
