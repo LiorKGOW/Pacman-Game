@@ -1,0 +1,36 @@
+*Notice* it is the responsibility of the screen designer to make sure that the & is placed in a position not accessible by the creatures !
+
+    // Format of steps files:
+
+Each line represents a single gameloop (a Point of Time).
+Each object that is currently moving will appear in the line, as a name and his direction.
+For example:
+
+Pacman: a Ghost0: d Ghost1: d Ghost2: d
+or
+Fruit: w Pacman: a
+
+Each letter represents the direction:
+a = Left
+w = Up
+d = Right
+x = Down
+s = Stay
+
+also, if a New Fruit Spawned, at the end of the line, after all of the current gameloop moves, the line will look like this:
+Fruit new Position: X: 1,Y: 11
+X and Y represents a position on the board which the new Fruit has Spawned at.
+
+
+    // Format of result files:
+
+In case Pacman has died in this screen, there will be a line with the gameloop when he died. 
+For example:
+
+Pacman died: 85
+
+In case the Pacman has finished the screen the last line of the file will look like this:
+
+Pacman Finished the Screen: 59
+
+Each file ends with an empty line.
