@@ -1,0 +1,856 @@
+Pacman: s Ghost0: d Ghost1: a Ghost2: x Ghost3: w 
+Pacman: s 
+Pacman: s Ghost0: d Ghost1: a Ghost2: x Ghost3: w 
+Pacman: s 
+Pacman: s Ghost0: d Ghost1: a Ghost2: x Ghost3: w 
+Pacman: a 
+Pacman: a Ghost0: d Ghost1: a Ghost2: x Ghost3: w 
+Pacman: a 
+Pacman: a Ghost0: d Ghost1: a Ghost2: x Ghost3: w 
+Pacman: a 
+Pacman: a Ghost0: d Ghost1: a Ghost2: x Ghost3: w 
+Pacman: a Fruit new Position: X: 34,Y: 4
+Fruit: w Pacman: a Ghost0: d Ghost1: a Ghost2: x Ghost3: w 
+Pacman: a 
+Pacman: a Ghost0: d Ghost1: a Ghost2: x Ghost3: w 
+Pacman: a 
+Fruit: d Pacman: a Ghost0: d Ghost1: a Ghost2: x Ghost3: w 
+Pacman: a 
+Pacman: a Ghost0: d Ghost1: a Ghost2: x Ghost3: w 
+Pacman: a 
+Fruit: x Pacman: a Ghost0: d Ghost1: a Ghost2: x Ghost3: w 
+Pacman: a 
+Pacman: a Ghost0: d Ghost1: a Ghost2: x Ghost3: w 
+Pacman: a 
+Fruit: x Pacman: a Ghost0: d Ghost1: a Ghost2: x Ghost3: w 
+Pacman: a 
+Pacman: a Ghost0: d Ghost1: a Ghost2: x Ghost3: w 
+Pacman: w 
+Fruit: a Pacman: w Ghost0: d Ghost1: a Ghost2: x Ghost3: w 
+Pacman: w 
+Pacman: d Ghost0: d Ghost1: a Ghost2: x Ghost3: w 
+Pacman: d 
+Fruit: d Pacman: d Ghost0: d Ghost1: a Ghost2: x Ghost3: w 
+Pacman: d 
+Pacman: d Ghost0: d Ghost1: a Ghost2: x Ghost3: w 
+Pacman: d 
+Fruit: w Pacman: d Ghost0: d Ghost1: a Ghost2: x Ghost3: w 
+Pacman: d 
+Pacman: d Ghost0: d Ghost1: a Ghost2: x Ghost3: w 
+Pacman: d 
+Fruit: x Pacman: d Ghost0: d Ghost1: a Ghost2: x Ghost3: w 
+Pacman: d 
+Pacman: d Ghost0: x Ghost1: w Ghost2: w Ghost3: w 
+Pacman: d 
+Fruit: x Pacman: d Ghost0: x Ghost1: w Ghost2: w Ghost3: w 
+Pacman: d 
+Pacman: d Ghost0: x Ghost1: w Ghost2: w Ghost3: w 
+Pacman: d 
+Fruit: a Pacman: d Ghost0: x Ghost1: w Ghost2: w Ghost3: w 
+Pacman: d 
+Pacman: d Ghost0: x Ghost1: w Ghost2: w Ghost3: w 
+Pacman: d 
+Fruit: d Pacman: d Ghost0: x Ghost1: w Ghost2: w Ghost3: w 
+Pacman: d 
+Pacman: d Ghost0: x Ghost1: w Ghost2: w Ghost3: w 
+Pacman: d 
+Fruit: a Pacman: d Ghost0: x Ghost1: w Ghost2: w Ghost3: w 
+Pacman: x 
+Pacman: a Ghost0: x Ghost1: w Ghost2: w Ghost3: w 
+Pacman: a 
+Fruit: a Pacman: a Ghost0: x Ghost1: w Ghost2: w Ghost3: w 
+Pacman: x 
+Pacman: x Ghost0: x Ghost1: w Ghost2: w Ghost3: w 
+Pacman: d 
+Fruit: w Pacman: d Ghost0: x Ghost1: w Ghost2: w Ghost3: w 
+Pacman: d 
+Pacman: w Ghost0: x Ghost1: w Ghost2: w Ghost3: w 
+Pacman: w 
+Fruit: w Pacman: w Ghost0: x Ghost1: w Ghost2: w Ghost3: w 
+Pacman: a 
+Pacman: a Ghost0: x Ghost1: w Ghost2: w Ghost3: w 
+Pacman: x 
+Fruit: x Pacman: x Ghost0: x Ghost1: w Ghost2: w Ghost3: w 
+Pacman: d 
+Pacman: d Ghost0: x Ghost1: w Ghost2: w Ghost3: w 
+Pacman: d 
+Fruit: w Pacman: a Ghost0: x Ghost1: w Ghost2: w Ghost3: w 
+Pacman: a 
+Pacman: a Ghost0: x Ghost1: w Ghost2: w Ghost3: w 
+Pacman: a 
+Fruit: d Pacman: a Ghost0: x Ghost1: w Ghost2: w Ghost3: w 
+Pacman: a 
+Pacman: a Ghost0: x Ghost1: w Ghost2: w Ghost3: w 
+Pacman: a 
+Fruit: w Pacman: a Ghost0: d Ghost1: x Ghost2: a Ghost3: a 
+Pacman: a 
+Pacman: a Ghost0: d Ghost1: x Ghost2: a Ghost3: a 
+Pacman: a 
+Fruit: d Pacman: a Ghost0: d Ghost1: x Ghost2: a Ghost3: a 
+Pacman: a 
+Pacman: a Ghost0: d Ghost1: x Ghost2: a Ghost3: a 
+Pacman: a 
+Pacman: a Ghost0: d Ghost1: x Ghost2: a Ghost3: a 
+Pacman: a 
+Pacman: a Ghost0: d Ghost1: x Ghost2: a Ghost3: a Fruit new Position: X: 54,Y: 2
+Pacman: a 
+Pacman: a Ghost0: d Ghost1: x Ghost2: a Ghost3: a 
+Pacman: a 
+Fruit: w Pacman: a Ghost0: d Ghost1: x Ghost2: a Ghost3: a 
+Pacman: a 
+Pacman: a Ghost0: d Ghost1: x Ghost2: a Ghost3: a 
+Pacman: a 
+Fruit: d Pacman: a Ghost0: d Ghost1: x Ghost2: a Ghost3: a 
+Pacman: s 
+Pacman: x Ghost0: d Ghost1: x Ghost2: a Ghost3: a 
+Pacman: x 
+Fruit: d Pacman: d Ghost0: d Ghost1: x Ghost2: a Ghost3: a 
+Pacman: x 
+Pacman: x Ghost0: d Ghost1: x Ghost2: a Ghost3: a 
+Pacman: x 
+Fruit: a Pacman: d Ghost0: d Ghost1: x Ghost2: a Ghost3: a 
+Pacman: d 
+Pacman: d Ghost0: d Ghost1: x Ghost2: a Ghost3: a 
+Pacman: d 
+Fruit: a Pacman: d Ghost0: d Ghost1: x Ghost2: a Ghost3: a 
+Pacman: d 
+Pacman: d Ghost0: d Ghost1: x Ghost2: a Ghost3: a 
+Pacman: d 
+Fruit: a Pacman: d Ghost0: d Ghost1: x Ghost2: a Ghost3: a 
+Pacman: d 
+Pacman: d Ghost0: d Ghost1: x Ghost2: a Ghost3: a 
+Pacman: d 
+Fruit: d Pacman: d Ghost0: d Ghost1: x Ghost2: a Ghost3: a 
+Pacman: d 
+Pacman: d Ghost0: d Ghost1: x Ghost2: a Ghost3: a 
+Pacman: d 
+Fruit: a Pacman: d Ghost0: a Ghost1: w Ghost2: x Ghost3: a 
+Pacman: d 
+Pacman: d Ghost0: a Ghost1: w Ghost2: x Ghost3: a 
+Pacman: d 
+Fruit: a Pacman: d Ghost0: a Ghost1: w Ghost2: x Ghost3: a 
+Pacman: d 
+Pacman: d Ghost0: a Ghost1: w Ghost2: x Ghost3: a 
+Pacman: d 
+Fruit: a Pacman: d Ghost0: a Ghost1: w Ghost2: x Ghost3: a 
+Pacman: d 
+Pacman: d Ghost0: a Ghost1: w Ghost2: x Ghost3: a 
+Pacman: d 
+Fruit: x Pacman: d Ghost0: a Ghost1: w Ghost2: x Ghost3: a 
+Pacman: d 
+Pacman: d Ghost0: a Ghost1: w Ghost2: x Ghost3: a 
+Pacman: d 
+Fruit: w Pacman: d Ghost0: a Ghost1: w Ghost2: x Ghost3: a 
+Pacman: d 
+Pacman: d Ghost0: a Ghost1: w Ghost2: x Ghost3: a 
+Pacman: d 
+Fruit: x Pacman: d Ghost0: a Ghost1: w Ghost2: x Ghost3: a 
+Pacman: d 
+Pacman: d Ghost0: a Ghost1: w Ghost2: x Ghost3: a 
+Pacman: d 
+Fruit: a Pacman: d Ghost0: a Ghost1: w Ghost2: x Ghost3: a 
+Pacman: w 
+Pacman: w Ghost0: a Ghost1: w Ghost2: x Ghost3: a 
+Pacman: w 
+Fruit: a Pacman: a Ghost0: a Ghost1: w Ghost2: x Ghost3: a 
+Pacman: a 
+Pacman: a Ghost0: a Ghost1: w Ghost2: x Ghost3: a 
+Pacman: a 
+Fruit: w Pacman: a Ghost0: a Ghost1: w Ghost2: x Ghost3: a 
+Pacman: a 
+Pacman: a Ghost0: a Ghost1: w Ghost2: x Ghost3: a 
+Pacman: a 
+Fruit: w Pacman: a Ghost0: a Ghost1: w Ghost2: x Ghost3: a 
+Pacman: a 
+Pacman: a Ghost0: a Ghost1: w Ghost2: x Ghost3: a 
+Pacman: a 
+Fruit: w Pacman: a Ghost0: a Ghost1: w Ghost2: x Ghost3: a 
+Pacman: x 
+Pacman: x Ghost0: d Ghost1: x Ghost2: x Ghost3: x 
+Pacman: x 
+Fruit: w Pacman: x Ghost0: d Ghost1: x Ghost2: x Ghost3: x 
+Pacman: x 
+Pacman: x Ghost0: d Ghost1: x Ghost2: x Ghost3: x 
+Pacman: x 
+Fruit: x Pacman: x Ghost0: d Ghost1: x Ghost2: x Ghost3: x 
+Pacman: x 
+Pacman: x Ghost0: d Ghost1: x Ghost2: x Ghost3: x 
+Pacman: x 
+Fruit: x Pacman: d Ghost0: d Ghost1: x Ghost2: x Ghost3: x 
+Pacman: d 
+Pacman: d Ghost0: d Ghost1: x Ghost2: x Ghost3: x 
+Pacman: d 
+Fruit: a Pacman: d Ghost0: d Ghost1: x Ghost2: x Ghost3: x 
+Pacman: d 
+Pacman: d Ghost0: d Ghost1: x Ghost2: x Ghost3: x 
+Pacman: d 
+Fruit: a Pacman: d Ghost0: d Ghost1: x Ghost2: x Ghost3: x 
+Pacman: d 
+Pacman: d Ghost0: d Ghost1: x Ghost2: x Ghost3: x 
+Pacman: d 
+Fruit: a Pacman: w Ghost0: d Ghost1: x Ghost2: x Ghost3: x 
+Pacman: a 
+Pacman: a Ghost0: d Ghost1: x Ghost2: x Ghost3: x 
+Pacman: a 
+Fruit: a Pacman: a Ghost0: d Ghost1: x Ghost2: x Ghost3: x 
+Pacman: a 
+Pacman: a Ghost0: d Ghost1: x Ghost2: x Ghost3: x 
+Pacman: a 
+Fruit: a Pacman: a Ghost0: d Ghost1: x Ghost2: x Ghost3: x 
+Pacman: a 
+Pacman: a Ghost0: d Ghost1: x Ghost2: x Ghost3: x 
+Pacman: a 
+Pacman: x Ghost0: d Ghost1: x Ghost2: x Ghost3: x 
+Pacman: x 
+Pacman: x Ghost0: d Ghost1: x Ghost2: x Ghost3: x 
+Pacman: x 
+Pacman: d Ghost0: d Ghost1: x Ghost2: x Ghost3: x 
+Pacman: d 
+Pacman: d Ghost0: d Ghost1: x Ghost2: x Ghost3: x 
+Pacman: d 
+Pacman: d Ghost0: a Ghost1: x Ghost2: a Ghost3: w 
+Pacman: d 
+Pacman: d Ghost0: a Ghost1: x Ghost2: a Ghost3: w 
+Pacman: d 
+Pacman: d Ghost0: a Ghost1: x Ghost2: a Ghost3: w 
+Pacman: d 
+Pacman: d Ghost0: a Ghost1: x Ghost2: a Ghost3: w 
+Pacman: w 
+Pacman: a Ghost0: a Ghost1: x Ghost2: a Ghost3: w 
+Pacman: a 
+Pacman: a Ghost0: a Ghost1: x Ghost2: a Ghost3: w 
+Pacman: a 
+Pacman: a Ghost0: a Ghost1: x Ghost2: a Ghost3: w 
+Pacman: a 
+Pacman: a Ghost0: a Ghost1: x Ghost2: a Ghost3: w 
+Pacman: a 
+Pacman: a Ghost0: a Ghost1: x Ghost2: a Ghost3: w 
+Pacman: a 
+Pacman: a Ghost0: a Ghost1: x Ghost2: a Ghost3: w 
+Pacman: a 
+Pacman: x Ghost0: a Ghost1: x Ghost2: a Ghost3: w 
+Pacman: d 
+Pacman: d Ghost0: a Ghost1: x Ghost2: a Ghost3: w 
+Pacman: d 
+Pacman: d Ghost0: a Ghost1: x Ghost2: a Ghost3: w 
+Pacman: x 
+Pacman: a Ghost0: a Ghost1: x Ghost2: a Ghost3: w 
+Pacman: a 
+Pacman: a Ghost0: a Ghost1: x Ghost2: a Ghost3: w 
+Pacman: x 
+Pacman: x Ghost0: a Ghost1: x Ghost2: a Ghost3: w 
+Pacman: d 
+Pacman: d Ghost0: a Ghost1: x Ghost2: a Ghost3: w 
+Pacman: d 
+Pacman: d Ghost0: a Ghost1: x Ghost2: a Ghost3: w 
+Pacman: d 
+Pacman: d Ghost0: a Ghost1: x Ghost2: a Ghost3: w 
+Pacman: d 
+Pacman: d Ghost0: a Ghost1: x Ghost2: a Ghost3: w 
+Pacman: d 
+Pacman: d Ghost0: a Ghost1: x Ghost2: a Ghost3: w 
+Pacman: d 
+Pacman: d Ghost0: w Ghost1: w Ghost2: d Ghost3: x 
+Pacman: w 
+Pacman: a Ghost0: w Ghost1: w Ghost2: d Ghost3: x 
+Pacman: a 
+Pacman: a Ghost0: w Ghost1: w Ghost2: d Ghost3: x 
+Pacman: a 
+Pacman: a Ghost0: w Ghost1: w Ghost2: d Ghost3: x 
+Pacman: a 
+Pacman: a Ghost0: w Ghost1: w Ghost2: d Ghost3: x 
+Pacman: a 
+Pacman: d Ghost0: w Ghost1: w Ghost2: d Ghost3: x 
+Pacman: d 
+Pacman: d Ghost0: w Ghost1: w Ghost2: d Ghost3: x 
+Pacman: d 
+Pacman: d Ghost0: w Ghost1: w Ghost2: d Ghost3: x 
+Pacman: d 
+Pacman: d Ghost0: w Ghost1: w Ghost2: d Ghost3: x 
+Pacman: d 
+Pacman: d Ghost0: w Ghost1: w Ghost2: d Ghost3: x 
+Pacman: d 
+Pacman: d Ghost0: w Ghost1: w Ghost2: d Ghost3: x 
+Pacman: w 
+Pacman: w Ghost0: w Ghost1: w Ghost2: d Ghost3: x 
+Pacman: w 
+Pacman: w Ghost0: w Ghost1: w Ghost2: d Ghost3: x 
+Pacman: w 
+Pacman: w Ghost0: w Ghost1: w Ghost2: d Ghost3: x 
+Pacman: a 
+Pacman: x Ghost0: w Ghost1: w Ghost2: d Ghost3: x 
+Pacman: x 
+Pacman: x Ghost0: w Ghost1: w Ghost2: d Ghost3: x 
+Pacman: x 
+Pacman: x Ghost0: w Ghost1: w Ghost2: d Ghost3: x 
+Pacman: w 
+Pacman: w Ghost0: w Ghost1: w Ghost2: d Ghost3: x 
+Pacman: w 
+Pacman: a Ghost0: w Ghost1: w Ghost2: d Ghost3: x 
+Pacman: a 
+Pacman: a Ghost0: w Ghost1: w Ghost2: d Ghost3: x 
+Pacman: d 
+Pacman: d Ghost0: w Ghost1: w Ghost2: d Ghost3: x 
+Pacman: d 
+Pacman: d Ghost0: a Ghost1: x Ghost2: a Ghost3: d 
+Pacman: x 
+Pacman: x Ghost0: a Ghost1: x Ghost2: a Ghost3: d 
+Pacman: x 
+Pacman: x Ghost0: a Ghost1: x Ghost2: a Ghost3: d 
+Pacman: x 
+Pacman: x Ghost0: a Ghost1: x Ghost2: a Ghost3: d 
+Pacman: a 
+Pacman: d Ghost0: a Ghost1: x Ghost2: a Ghost3: d 
+Pacman: d 
+Pacman: w Ghost0: a Ghost1: x Ghost2: a Ghost3: d 
+Pacman: w 
+Pacman: w Ghost0: a Ghost1: x Ghost2: a Ghost3: d 
+Pacman: w 
+Pacman: w Ghost0: a Ghost1: x Ghost2: a Ghost3: d 
+Pacman: w 
+Pacman: w Ghost0: a Ghost1: x Ghost2: a Ghost3: d 
+Pacman: d 
+Pacman: d Ghost0: a Ghost1: x Ghost2: a Ghost3: d 
+Pacman: x 
+Pacman: x Ghost0: a Ghost1: x Ghost2: a Ghost3: d 
+Pacman: x 
+Pacman: x Ghost0: a Ghost1: x Ghost2: a Ghost3: d 
+Pacman: x 
+Pacman: x Ghost0: a Ghost1: x Ghost2: a Ghost3: d 
+Pacman: x 
+Pacman: x Ghost0: a Ghost1: x Ghost2: a Ghost3: d 
+Pacman: w 
+Pacman: w Ghost0: a Ghost1: x Ghost2: a Ghost3: d 
+Pacman: w 
+Pacman: w Ghost0: a Ghost1: x Ghost2: a Ghost3: d 
+Pacman: w 
+Pacman: w Ghost0: a Ghost1: x Ghost2: a Ghost3: d 
+Pacman: w 
+Pacman: a Ghost0: a Ghost1: x Ghost2: a Ghost3: d 
+Pacman: x 
+Pacman: x Ghost0: a Ghost1: x Ghost2: a Ghost3: d 
+Pacman: x 
+Pacman: x Ghost0: a Ghost1: x Ghost2: a Ghost3: d 
+Pacman: x 
+Pacman: x Ghost0: a Ghost1: x Ghost2: a Ghost3: d 
+Pacman: x 
+Pacman: d Ghost0: x Ghost1: a Ghost2: a Ghost3: d 
+Pacman: d 
+Pacman: w Ghost0: x Ghost1: a Ghost2: a Ghost3: d 
+Pacman: w 
+Pacman: w Ghost0: x Ghost1: a Ghost2: a Ghost3: d 
+Pacman: w 
+Pacman: w Ghost0: x Ghost1: a Ghost2: a Ghost3: d 
+Pacman: w 
+Pacman: w Ghost0: x Ghost1: a Ghost2: a Ghost3: d 
+Pacman: w 
+Pacman: d Ghost0: x Ghost1: a Ghost2: a Ghost3: d 
+Pacman: x 
+Pacman: x Ghost0: x Ghost1: a Ghost2: a Ghost3: d 
+Pacman: x 
+Pacman: x Ghost0: x Ghost1: a Ghost2: a Ghost3: d 
+Pacman: x 
+Pacman: x Ghost0: x Ghost1: a Ghost2: a Ghost3: d 
+Pacman: x 
+Pacman: d Ghost0: x Ghost1: a Ghost2: a Ghost3: d 
+Pacman: d 
+Pacman: w Ghost0: x Ghost1: a Ghost2: a Ghost3: d 
+Pacman: w 
+Pacman: w Ghost0: x Ghost1: a Ghost2: a Ghost3: d 
+Pacman: w 
+Pacman: w Ghost0: x Ghost1: a Ghost2: a Ghost3: d 
+Pacman: w 
+Pacman: w Ghost0: x Ghost1: a Ghost2: a Ghost3: d 
+Pacman: w 
+Pacman: x Ghost0: x Ghost1: a Ghost2: a Ghost3: d 
+Pacman: x 
+Pacman: x Ghost0: x Ghost1: a Ghost2: a Ghost3: d 
+Pacman: x 
+Pacman: x Ghost0: x Ghost1: a Ghost2: a Ghost3: d 
+Pacman: x 
+Pacman: a Ghost0: x Ghost1: a Ghost2: a Ghost3: d 
+Pacman: a Fruit new Position: X: 17,Y: 8
+Pacman: w Ghost0: x Ghost1: a Ghost2: a Ghost3: d 
+Pacman: w 
+Pacman: w Ghost0: x Ghost1: a Ghost2: a Ghost3: d 
+Fruit: w Pacman: w 
+Pacman: w Ghost0: x Ghost1: a Ghost2: a Ghost3: d 
+Pacman: w 
+Pacman: d Ghost0: x Ghost1: d Ghost2: a Ghost3: d 
+Fruit: w Pacman: d 
+Pacman: x Ghost0: x Ghost1: d Ghost2: a Ghost3: d 
+Pacman: x 
+Pacman: x Ghost0: x Ghost1: d Ghost2: a Ghost3: d 
+Fruit: x Pacman: x 
+Pacman: x Ghost0: x Ghost1: d Ghost2: a Ghost3: d 
+Pacman: a 
+Pacman: w Ghost0: x Ghost1: d Ghost2: a Ghost3: d 
+Fruit: x Pacman: w 
+Pacman: w Ghost0: x Ghost1: d Ghost2: a Ghost3: d 
+Pacman: w 
+Pacman: w Ghost0: x Ghost1: d Ghost2: a Ghost3: d 
+Fruit: d Pacman: d 
+Pacman: d Ghost0: x Ghost1: d Ghost2: a Ghost3: d 
+Pacman: d 
+Pacman: x Ghost0: x Ghost1: d Ghost2: a Ghost3: d 
+Fruit: d Pacman: x 
+Pacman: x Ghost0: x Ghost1: d Ghost2: a Ghost3: d 
+Pacman: x 
+Pacman: x Ghost0: x Ghost1: d Ghost2: a Ghost3: d 
+Fruit: d Pacman: x 
+Pacman: x Ghost0: x Ghost1: d Ghost2: a Ghost3: d 
+Pacman: x 
+Pacman: a Ghost0: x Ghost1: d Ghost2: a Ghost3: d 
+Fruit: d Pacman: w 
+Pacman: w Ghost0: x Ghost1: d Ghost2: a Ghost3: d 
+Pacman: w 
+Pacman: w Ghost0: x Ghost1: d Ghost2: a Ghost3: d 
+Fruit: d Pacman: w 
+Pacman: w Ghost0: x Ghost1: d Ghost2: a Ghost3: d 
+Pacman: w 
+Pacman: d Ghost0: x Ghost1: d Ghost2: a Ghost3: d 
+Fruit: d Pacman: d 
+Pacman: x Ghost0: x Ghost1: d Ghost2: a Ghost3: d 
+Pacman: x 
+Pacman: x Ghost0: x Ghost1: d Ghost2: a Ghost3: d 
+Fruit: w Pacman: x 
+Pacman: x Ghost0: x Ghost1: d Ghost2: a Ghost3: d 
+Pacman: x 
+Pacman: x Ghost0: x Ghost1: d Ghost2: a Ghost3: d 
+Fruit: w Pacman: x 
+Pacman: d Ghost0: w Ghost1: x Ghost2: d Ghost3: d 
+Pacman: w 
+Pacman: w Ghost0: w Ghost1: x Ghost2: d Ghost3: d 
+Fruit: d Pacman: w 
+Pacman: w Ghost0: w Ghost1: x Ghost2: d Ghost3: d 
+Pacman: w 
+Pacman: w Ghost0: w Ghost1: x Ghost2: d Ghost3: d 
+Fruit: w Pacman: w 
+Pacman: w Ghost0: w Ghost1: x Ghost2: d Ghost3: d 
+Pacman: d 
+Pacman: x Ghost0: w Ghost1: x Ghost2: d Ghost3: d 
+Fruit: w Pacman: x 
+Pacman: x Ghost0: w Ghost1: x Ghost2: d Ghost3: d 
+Pacman: x 
+Pacman: x Ghost0: w Ghost1: x Ghost2: d Ghost3: d 
+Fruit: w Pacman: x 
+Pacman: x Ghost0: w Ghost1: x Ghost2: d Ghost3: d 
+Pacman: x 
+Pacman: w Ghost0: w Ghost1: x Ghost2: d Ghost3: d 
+Fruit: a Pacman: d 
+Pacman: d Ghost0: w Ghost1: x Ghost2: d Ghost3: d 
+Pacman: d 
+Pacman: d Ghost0: w Ghost1: x Ghost2: d Ghost3: d 
+Fruit: a Pacman: d 
+Pacman: d Ghost0: w Ghost1: x Ghost2: d Ghost3: d 
+Pacman: d 
+Pacman: d Ghost0: w Ghost1: x Ghost2: d Ghost3: d 
+Fruit: d Pacman: d 
+Pacman: d Ghost0: w Ghost1: x Ghost2: d Ghost3: d 
+Pacman: d 
+Pacman: d Ghost0: w Ghost1: x Ghost2: d Ghost3: d 
+Fruit: a Pacman: d 
+Pacman: d Ghost0: w Ghost1: x Ghost2: d Ghost3: d 
+Pacman: d 
+Pacman: w Ghost0: w Ghost1: x Ghost2: d Ghost3: d 
+Fruit: d Pacman: w 
+Pacman: a Ghost0: w Ghost1: x Ghost2: d Ghost3: d 
+Pacman: a 
+Pacman: a Ghost0: w Ghost1: x Ghost2: d Ghost3: d 
+Fruit: x Pacman: a 
+Pacman: a Ghost0: w Ghost1: x Ghost2: d Ghost3: d 
+Pacman: a 
+Pacman: a Ghost0: x Ghost1: a Ghost2: w Ghost3: x 
+Fruit: d Pacman: a 
+Pacman: a Ghost0: x Ghost1: a Ghost2: w Ghost3: x 
+Pacman: a 
+Pacman: w Ghost0: x Ghost1: a Ghost2: w Ghost3: x 
+Pacman: w 
+Pacman: w Ghost0: x Ghost1: a Ghost2: w Ghost3: x 
+Pacman: w 
+Pacman: w Ghost0: x Ghost1: a Ghost2: w Ghost3: x 
+Pacman: a Fruit new Position: X: 26,Y: 7
+Pacman: a Ghost0: x Ghost1: a Ghost2: w Ghost3: x 
+Pacman: a 
+Pacman: a Ghost0: x Ghost1: a Ghost2: w Ghost3: x 
+Fruit: a Pacman: d 
+Pacman: d Ghost0: x Ghost1: a Ghost2: w Ghost3: x 
+Pacman: d 
+Pacman: d Ghost0: x Ghost1: a Ghost2: w Ghost3: x 
+Fruit: w Pacman: d 
+Pacman: d Ghost0: x Ghost1: a Ghost2: w Ghost3: x 
+Pacman: d 
+Pacman: d Ghost0: x Ghost1: a Ghost2: w Ghost3: x 
+Fruit: x Pacman: d 
+Pacman: d Ghost0: x Ghost1: a Ghost2: w Ghost3: x 
+Pacman: d 
+Pacman: d Ghost0: x Ghost1: a Ghost2: w Ghost3: x 
+Fruit: d Pacman: d 
+Pacman: d Ghost0: x Ghost1: a Ghost2: w Ghost3: x 
+Pacman: d 
+Pacman: d Ghost0: x Ghost1: a Ghost2: w Ghost3: x 
+Fruit: w Pacman: d 
+Pacman: d Ghost0: x Ghost1: a Ghost2: w Ghost3: x 
+Pacman: d 
+Pacman: x Ghost0: x Ghost1: a Ghost2: w Ghost3: x 
+Fruit: a Pacman: a 
+Pacman: a Ghost0: x Ghost1: a Ghost2: w Ghost3: x 
+Pacman: a 
+Pacman: a Ghost0: x Ghost1: a Ghost2: w Ghost3: x 
+Fruit: w Pacman: a 
+Pacman: a Ghost0: x Ghost1: a Ghost2: w Ghost3: x 
+Pacman: a 
+Pacman: a Ghost0: x Ghost1: a Ghost2: w Ghost3: x 
+Fruit: a Pacman: a 
+Pacman: a Ghost0: x Ghost1: x Ghost2: w Ghost3: d 
+Pacman: a 
+Pacman: a Ghost0: x Ghost1: x Ghost2: w Ghost3: d 
+Fruit: w Pacman: a 
+Pacman: a Ghost0: x Ghost1: x Ghost2: w Ghost3: d 
+Pacman: a 
+Pacman: a Ghost0: x Ghost1: x Ghost2: w Ghost3: d 
+Fruit: d Pacman: a 
+Pacman: a Ghost0: x Ghost1: x Ghost2: w Ghost3: d 
+Pacman: a 
+Pacman: a Ghost0: x Ghost1: x Ghost2: w Ghost3: d 
+Fruit: x Pacman: x 
+Pacman: d Ghost0: x Ghost1: x Ghost2: w Ghost3: d 
+Pacman: d 
+Pacman: d Ghost0: x Ghost1: x Ghost2: w Ghost3: d 
+Fruit: a Pacman: d 
+Pacman: d Ghost0: x Ghost1: x Ghost2: w Ghost3: d 
+Pacman: d 
+Pacman: d Ghost0: x Ghost1: x Ghost2: w Ghost3: d 
+Fruit: d Pacman: d 
+Pacman: d Ghost0: x Ghost1: x Ghost2: w Ghost3: d 
+Pacman: d 
+Pacman: d Ghost0: x Ghost1: x Ghost2: w Ghost3: d 
+Fruit: w Pacman: d 
+Pacman: d Ghost0: x Ghost1: x Ghost2: w Ghost3: d 
+Pacman: d 
+Pacman: d Ghost0: x Ghost1: x Ghost2: w Ghost3: d 
+Fruit: x Pacman: d 
+Pacman: d Ghost0: x Ghost1: x Ghost2: w Ghost3: d 
+Pacman: d 
+Pacman: d Ghost0: x Ghost1: x Ghost2: w Ghost3: d 
+Fruit: a Pacman: x 
+Pacman: a Ghost0: x Ghost1: x Ghost2: w Ghost3: d 
+Pacman: a 
+Pacman: a Ghost0: x Ghost1: x Ghost2: w Ghost3: d 
+Fruit: x Pacman: a 
+Pacman: a Ghost0: x Ghost1: x Ghost2: w Ghost3: d 
+Pacman: a 
+Pacman: a Ghost0: x Ghost1: x Ghost2: w Ghost3: d 
+Fruit: d Pacman: a 
+Pacman: a Ghost0: x Ghost1: x Ghost2: w Ghost3: d 
+Pacman: a 
+Pacman: a Ghost0: a Ghost1: d Ghost2: x Ghost3: d 
+Fruit: x Pacman: a 
+Pacman: a Ghost0: a Ghost1: d Ghost2: x Ghost3: d 
+Pacman: a 
+Pacman: a Ghost0: a Ghost1: d Ghost2: x Ghost3: d 
+Fruit: w Pacman: a 
+Pacman: a Ghost0: a Ghost1: d Ghost2: x Ghost3: d 
+Pacman: a 
+Pacman: a Ghost0: a Ghost1: d Ghost2: x Ghost3: d 
+Pacman: d 
+Pacman: d Ghost0: a Ghost1: d Ghost2: x Ghost3: d 
+Pacman: d 
+Pacman: a Ghost0: a Ghost1: d Ghost2: x Ghost3: d 
+Pacman: a 
+Pacman: w Ghost0: a Ghost1: d Ghost2: x Ghost3: d 
+Pacman: a 
+Pacman: a Ghost0: a Ghost1: d Ghost2: x Ghost3: d 
+Pacman: a 
+Pacman: d Ghost0: a Ghost1: d Ghost2: x Ghost3: d 
+Pacman: x 
+Pacman: x Ghost0: a Ghost1: d Ghost2: x Ghost3: d 
+Pacman: x 
+Pacman: x Ghost0: a Ghost1: d Ghost2: x Ghost3: d 
+Pacman: d 
+Pacman: x Ghost0: a Ghost1: d Ghost2: x Ghost3: d 
+Pacman: x 
+Pacman: x Ghost0: a Ghost1: d Ghost2: x Ghost3: d 
+Pacman: d 
+Pacman: d Ghost0: a Ghost1: d Ghost2: x Ghost3: d 
+Pacman: d 
+Pacman: w Ghost0: a Ghost1: d Ghost2: x Ghost3: d 
+Pacman: w 
+Pacman: a Ghost0: a Ghost1: d Ghost2: x Ghost3: d 
+Pacman: a 
+Pacman: a Ghost0: a Ghost1: d Ghost2: x Ghost3: d 
+Pacman: d 
+Pacman: d Ghost0: a Ghost1: d Ghost2: x Ghost3: d 
+Pacman: d 
+Pacman: d Ghost0: a Ghost1: d Ghost2: x Ghost3: d 
+Pacman: a 
+Pacman: a Ghost0: a Ghost1: d Ghost2: x Ghost3: d 
+Pacman: a 
+Pacman: x Ghost0: x Ghost1: d Ghost2: x Ghost3: x 
+Pacman: d 
+Pacman: d Ghost0: x Ghost1: d Ghost2: x Ghost3: x 
+Pacman: d 
+Pacman: d Ghost0: x Ghost1: d Ghost2: x Ghost3: x 
+Pacman: d 
+Pacman: d Ghost0: x Ghost1: d Ghost2: x Ghost3: x 
+Pacman: w 
+Pacman: d Ghost0: x Ghost1: d Ghost2: x Ghost3: x 
+Pacman: d 
+Pacman: d Ghost0: x Ghost1: d Ghost2: x Ghost3: x 
+Pacman: d 
+Pacman: d Ghost0: x Ghost1: d Ghost2: x Ghost3: x 
+Pacman: d 
+Pacman: x Ghost0: x Ghost1: d Ghost2: x Ghost3: x 
+Pacman: x 
+Pacman: x Ghost0: x Ghost1: d Ghost2: x Ghost3: x 
+Pacman: x 
+Pacman: x Ghost0: x Ghost1: d Ghost2: x Ghost3: x 
+Pacman: a 
+Pacman: a Ghost0: x Ghost1: d Ghost2: x Ghost3: x Fruit new Position: X: 4,Y: 5
+Pacman: a 
+Pacman: a Ghost0: x Ghost1: d Ghost2: x Ghost3: x 
+Pacman: a 
+Fruit: w Pacman: a Ghost0: x Ghost1: d Ghost2: x Ghost3: x 
+Pacman: a 
+Pacman: a Ghost0: x Ghost1: d Ghost2: x Ghost3: x 
+Pacman: x 
+Fruit: d Pacman: x Ghost0: x Ghost1: d Ghost2: x Ghost3: x 
+Pacman: w 
+Pacman: w Ghost0: x Ghost1: d Ghost2: x Ghost3: x 
+Pacman: w 
+Fruit: x Pacman: w Ghost0: x Ghost1: d Ghost2: x Ghost3: x 
+Pacman: w 
+Pacman: w Ghost0: x Ghost1: d Ghost2: x Ghost3: x 
+Pacman: w 
+Fruit: d Pacman: w Ghost0: x Ghost1: d Ghost2: x Ghost3: x 
+Pacman: w 
+Pacman: w Ghost0: x Ghost1: d Ghost2: x Ghost3: x 
+Pacman: w 
+Fruit: x Pacman: x Ghost0: x Ghost1: d Ghost2: x Ghost3: x 
+Pacman: x 
+Pacman: x Ghost0: w Ghost1: d Ghost2: w Ghost3: x 
+Pacman: x 
+Fruit: d Pacman: x Ghost0: w Ghost1: d Ghost2: w Ghost3: x 
+Pacman: x 
+Pacman: x Ghost0: w Ghost1: d Ghost2: w Ghost3: x 
+Pacman: w 
+Fruit: w Pacman: w Ghost0: w Ghost1: d Ghost2: w Ghost3: x 
+Pacman: w 
+Pacman: w Ghost0: w Ghost1: d Ghost2: w Ghost3: x 
+Pacman: s 
+Fruit: w Pacman: s Ghost0: w Ghost1: d Ghost2: w Ghost3: x 
+Pacman: s 
+Pacman: s Ghost0: w Ghost1: d Ghost2: w Ghost3: x 
+Pacman: s 
+Fruit: d Pacman: s Ghost0: w Ghost1: d Ghost2: w Ghost3: x 
+Pacman: s 
+Pacman: s Ghost0: w Ghost1: d Ghost2: w Ghost3: x 
+Pacman: s 
+Fruit: x Pacman: s Ghost0: w Ghost1: d Ghost2: w Ghost3: x 
+Pacman: s 
+Pacman: s Ghost0: w Ghost1: d Ghost2: w Ghost3: x 
+Pacman: s 
+Fruit: w Pacman: s Ghost0: w Ghost1: d Ghost2: w Ghost3: x 
+Pacman: s 
+Pacman: s Ghost0: w Ghost1: d Ghost2: w Ghost3: x 
+Pacman: s 
+Fruit: x Pacman: x Ghost0: w Ghost1: d Ghost2: w Ghost3: x 
+Pacman: x 
+Pacman: x Ghost0: w Ghost1: d Ghost2: w Ghost3: x 
+Pacman: x 
+Fruit: x Pacman: x Ghost0: w Ghost1: d Ghost2: w Ghost3: x 
+Pacman: a 
+Pacman: a Ghost0: w Ghost1: d Ghost2: w Ghost3: x 
+Pacman: a 
+Fruit: a Pacman: a Ghost0: w Ghost1: d Ghost2: w Ghost3: x 
+Pacman: x 
+Pacman: a Ghost0: w Ghost1: d Ghost2: w Ghost3: x 
+Pacman: d 
+Fruit: d Pacman: d Ghost0: w Ghost1: d Ghost2: w Ghost3: x 
+Pacman: d 
+Pacman: d Ghost0: w Ghost1: d Ghost2: w Ghost3: x 
+Pacman: a 
+Fruit: w Pacman: a Ghost0: x Ghost1: x Ghost2: w Ghost3: x 
+Pacman: a 
+Pacman: a Ghost0: x Ghost1: x Ghost2: w Ghost3: x 
+Pacman: a 
+Fruit: x Pacman: a Ghost0: x Ghost1: x Ghost2: w Ghost3: x 
+Pacman: a 
+Pacman: a Ghost0: x Ghost1: x Ghost2: w Ghost3: x 
+Pacman: a 
+Fruit: d Pacman: a Ghost0: x Ghost1: x Ghost2: w Ghost3: x 
+Pacman: a 
+Pacman: d Ghost0: x Ghost1: x Ghost2: w Ghost3: x 
+Pacman: d 
+Fruit: d Pacman: d Ghost0: x Ghost1: x Ghost2: w Ghost3: x 
+Pacman: d 
+Pacman: d Ghost0: x Ghost1: x Ghost2: w Ghost3: x 
+Pacman: d 
+Fruit: d Pacman: d Ghost0: x Ghost1: x Ghost2: w Ghost3: x 
+Pacman: d 
+Pacman: d Ghost0: x Ghost1: x Ghost2: w Ghost3: x 
+Pacman: w 
+Pacman: a Ghost0: x Ghost1: x Ghost2: w Ghost3: x 
+Pacman: a 
+Pacman: a Ghost0: x Ghost1: x Ghost2: w Ghost3: x 
+Pacman: a 
+Pacman: a Ghost0: x Ghost1: x Ghost2: w Ghost3: x 
+Pacman: d 
+Pacman: d Ghost0: x Ghost1: x Ghost2: w Ghost3: x 
+Pacman: d 
+Pacman: d Ghost0: x Ghost1: x Ghost2: w Ghost3: x 
+Pacman: d 
+Pacman: d Ghost0: x Ghost1: x Ghost2: w Ghost3: x 
+Pacman: d 
+Pacman: d Ghost0: x Ghost1: x Ghost2: w Ghost3: x 
+Pacman: d 
+Pacman: d Ghost0: x Ghost1: x Ghost2: w Ghost3: x 
+Pacman: d 
+Pacman: s Ghost0: x Ghost1: x Ghost2: w Ghost3: x 
+Pacman: s 
+Pacman: s Ghost0: x Ghost1: x Ghost2: w Ghost3: x 
+Pacman: s 
+Pacman: s Ghost0: x Ghost1: x Ghost2: w Ghost3: x 
+Pacman: s 
+Pacman: s Ghost0: w Ghost1: a Ghost2: a Ghost3: w 
+Pacman: s 
+Pacman: s Ghost0: w Ghost1: a Ghost2: a Ghost3: w 
+Pacman: s 
+Pacman: s Ghost0: w Ghost1: a Ghost2: a Ghost3: w 
+Pacman: s 
+Pacman: s Ghost0: w Ghost1: a Ghost2: a Ghost3: w 
+Pacman: s 
+Pacman: s Ghost0: w Ghost1: a Ghost2: a Ghost3: w 
+Pacman: s 
+Pacman: s Ghost0: w Ghost1: a Ghost2: a Ghost3: w 
+Pacman: d 
+Pacman: d Ghost0: w Ghost1: a Ghost2: a Ghost3: w 
+Pacman: d 
+Pacman: x Ghost0: w Ghost1: a Ghost2: a Ghost3: w 
+Pacman: x 
+Pacman: a Ghost0: w Ghost1: a Ghost2: a Ghost3: w 
+Pacman: a 
+Pacman: a Ghost0: w Ghost1: a Ghost2: a Ghost3: w 
+Pacman: a 
+Pacman: a Ghost0: w Ghost1: a Ghost2: a Ghost3: w 
+Pacman: w 
+Pacman: w Ghost0: w Ghost1: a Ghost2: a Ghost3: w 
+Pacman: d 
+Pacman: d Ghost0: w Ghost1: a Ghost2: a Ghost3: w 
+Pacman: d 
+Pacman: x Ghost0: w Ghost1: a Ghost2: a Ghost3: w 
+Pacman: x 
+Pacman: x Ghost0: w Ghost1: a Ghost2: a Ghost3: w 
+Pacman: x 
+Pacman: x Ghost0: w Ghost1: a Ghost2: a Ghost3: w 
+Pacman: x 
+Pacman: w Ghost0: w Ghost1: a Ghost2: a Ghost3: w 
+Pacman: s 
+Pacman: s Ghost0: w Ghost1: a Ghost2: a Ghost3: w 
+Pacman: s 
+Pacman: s Ghost0: w Ghost1: a Ghost2: a Ghost3: w 
+Pacman: s 
+Pacman: s Ghost0: w Ghost1: a Ghost2: a Ghost3: w 
+Pacman: s 
+Pacman: s Ghost0: w Ghost1: a Ghost2: a Ghost3: w 
+Pacman: s 
+Pacman: s Ghost0: a Ghost1: x Ghost2: w Ghost3: d 
+Pacman: s 
+Pacman: s Ghost0: a Ghost1: x Ghost2: w Ghost3: d 
+Pacman: s 
+Pacman: s Ghost0: a Ghost1: x Ghost2: w Ghost3: d 
+Pacman: s 
+Pacman: s Ghost0: a Ghost1: x Ghost2: w Ghost3: d 
+Pacman: s 
+Pacman: s Ghost0: a Ghost1: x Ghost2: w Ghost3: d 
+Pacman: s 
+Pacman: s Ghost0: a Ghost1: x Ghost2: w Ghost3: d 
+Pacman: s 
+Pacman: s Ghost0: a Ghost1: x Ghost2: w Ghost3: d 
+Pacman: s 
+Pacman: s Ghost0: a Ghost1: x Ghost2: w Ghost3: d 
+Pacman: s 
+Pacman: s Ghost0: a Ghost1: x Ghost2: w Ghost3: d 
+Pacman: s 
+Pacman: s Ghost0: a Ghost1: x Ghost2: w Ghost3: d 
+Pacman: s 
+Pacman: s Ghost0: a Ghost1: x Ghost2: w Ghost3: d 
+Pacman: s 
+Pacman: s Ghost0: a Ghost1: x Ghost2: w Ghost3: d 
+Pacman: s 
+Pacman: s Ghost0: a Ghost1: x Ghost2: w Ghost3: d 
+Pacman: s 
+Pacman: s Ghost0: a Ghost1: x Ghost2: w Ghost3: d 
+Pacman: s 
+Pacman: s Ghost0: a Ghost1: x Ghost2: w Ghost3: d 
+Pacman: s 
+Pacman: s Ghost0: a Ghost1: x Ghost2: w Ghost3: d 
+Pacman: s 
+Pacman: s Ghost0: a Ghost1: x Ghost2: w Ghost3: d 
+Pacman: s 
+Pacman: s Ghost0: a Ghost1: x Ghost2: w Ghost3: d 
+Pacman: s 
+Pacman: s Ghost0: a Ghost1: x Ghost2: w Ghost3: d 
+Pacman: s 
+Pacman: s Ghost0: a Ghost1: x Ghost2: w Ghost3: d 
+Pacman: s 
+Pacman: s Ghost0: a Ghost1: x Ghost2: w Ghost3: d 
+Pacman: s 
+Pacman: s Ghost0: d Ghost1: x Ghost2: x Ghost3: d 
+Pacman: s 
+Pacman: s Ghost0: d Ghost1: x Ghost2: x Ghost3: d 
+Pacman: s 
+Pacman: s Ghost0: d Ghost1: x Ghost2: x Ghost3: d 
+Pacman: s 
+Pacman: s Ghost0: d Ghost1: x Ghost2: x Ghost3: d 
+Pacman: s 
+Pacman: s Ghost0: d Ghost1: x Ghost2: x Ghost3: d 
+Pacman: s 
+Pacman: s Ghost0: d Ghost1: x Ghost2: x Ghost3: d 
+Pacman: s 
+Pacman: s Ghost0: d Ghost1: x Ghost2: x Ghost3: d 
+Pacman: s 
+Pacman: s Ghost0: d Ghost1: x Ghost2: x Ghost3: d 
+Pacman: s 
+Pacman: s Ghost0: d Ghost1: x Ghost2: x Ghost3: d 
+Pacman: s 
+Pacman: s Ghost0: d Ghost1: x Ghost2: x Ghost3: d 
+Pacman: s 
+Pacman: s Ghost0: d Ghost1: x Ghost2: x Ghost3: d 
+Pacman: s 
+Pacman: s Ghost0: d Ghost1: x Ghost2: x Ghost3: d 
+Pacman: s 
+Pacman: s Ghost0: d Ghost1: x Ghost2: x Ghost3: d 
+Pacman: s 
+Pacman: s Ghost0: d Ghost1: x Ghost2: x Ghost3: d 
+Pacman: s 
+Pacman: s Ghost0: d Ghost1: x Ghost2: x Ghost3: d 
+Pacman: s 
+Pacman: s Ghost0: d Ghost1: x Ghost2: x Ghost3: d 
+Pacman: s 
+Pacman: s Ghost0: d Ghost1: x Ghost2: x Ghost3: d 
+Pacman: s 
+Pacman: s Ghost0: d Ghost1: x Ghost2: x Ghost3: d 
+Pacman: s 
+Pacman: s Ghost0: d Ghost1: x Ghost2: x Ghost3: d 
+Pacman: s 
+Pacman: s Ghost0: d Ghost1: x Ghost2: x Ghost3: d 
+Pacman: s 
+Pacman: s Ghost0: d Ghost1: x Ghost2: x Ghost3: d 
+Pacman: s 
+Pacman: s Ghost0: x Ghost1: x Ghost2: x Ghost3: x 
+Pacman: s 
+Pacman: s Ghost0: x Ghost1: x Ghost2: x Ghost3: x 
+Pacman: s 
+Pacman: s Ghost0: x Ghost1: x Ghost2: x Ghost3: x 
+Pacman: s 
+Pacman: s Ghost0: x Ghost1: x Ghost2: x Ghost3: x 
+Pacman: s 
+Pacman: s Ghost0: x Ghost1: x Ghost2: x Ghost3: x 
+Pacman: s 
+Pacman: s Ghost0: x Ghost1: x Ghost2: x Ghost3: x 
+Pacman: d 
+Pacman: d Ghost0: x Ghost1: x Ghost2: x Ghost3: x 
+Pacman: d 
+Pacman: w Ghost0: x Ghost1: x Ghost2: x Ghost3: x 
+Pacman: a 
