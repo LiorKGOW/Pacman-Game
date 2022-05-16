@@ -140,14 +140,18 @@ bool GameLoad::startGame(Player& player) {
 	}
 	else if (difficultyLevel == GOOD) {
 
-		for (int i = 0; i < board2->getGhostNum(); i++) {
+		ghosts.push_back(new Ghost_Expert(board2->getGhostsStartPos()[0]));
+
+		for (int i = 1; i < board2->getGhostNum(); i++) {
 
 			ghosts.push_back(new Ghost_Intermediate(board2->getGhostsStartPos()[i]));
 		}
 	}
 	else {  //difficultyLevel == NOVICE
 
-		for (int i = 0; i < board2->getGhostNum(); i++) {
+		ghosts.push_back(new Ghost_Intermediate(board2->getGhostsStartPos()[0]));
+
+		for (int i = 1; i < board2->getGhostNum(); i++) {
 
 			ghosts.push_back(new Ghost_Novice(board2->getGhostsStartPos()[i]));
 		}
