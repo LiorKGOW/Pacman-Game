@@ -1,11 +1,5 @@
 # Pacman-Game
 
- ____  ____  ____  _      ____  _     
-/  __\/  _ \/   _\/ \__/|/  _ \/ \  /|
-|  \/|| / \||  /  | |\/||| / \|| |\ ||
-|  __/| |-|||  \__| |  ||| |-||| | \||
-\_/   \_/ \|\____/\_/  \|\_/ \|\_/  \|
-
 _Welcome to Pacman !!_
 
 In this game you are Pacman. Your goal is to eat all of the food presented on the screen. When you finish eating all of the food on the screen in all of the levels, you will win.
@@ -13,8 +7,8 @@ Beware of the ghosts, they will try to eat you causing you to lose a life (you h
 
 The difficulty of the ghosts is determined by the provided difficulty :
 (a) BEST - Ghost try to chase the pacman. the ghost will find a path to the pacman using the A Star pathfinding algorithm.
-(b) GOOD - Ghost try to chase the pacman, but occasionally (randomly, once in ~20 moves) they just change to a random direction and stay with it for 5 moves before being smart again
-(c) NOVICE - Ghost just move on screen with a direction selected randomly every 20 moves
+(b) GOOD - Ghost try to chase the pacman, but occasionally (randomly, once in ~20 moves) they just change to a random direction and stay with it for 5 moves before being smart again, with one BEST Ghost
+(c) NOVICE - Ghost just move on screen with a direction selected randomly every 20 moves, with one GOOD Ghost
 _Notice: _ You need to choose your difficulty in the menu, the game's default difficulty is BEST.
 
 _Controls:_
